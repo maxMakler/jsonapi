@@ -1,5 +1,5 @@
 {
-    "name": "reva2/jsonapi",
+    "name": "maxmakler/jsonapi",
     "description": "Library for JSON API implementation",
     "type": "library",
     "license": "MIT",
